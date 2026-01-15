@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-20
 ---
 
 ## Project Structure
-- `Studying_Suicide_Rates.ipynb` — main notebook containing data preprocessing, analysis, and visualizations
+- `Studying_Suicide_Rates.ipynb`  main notebook containing data preprocessing, analysis, and visualizations
 
 ---
 
